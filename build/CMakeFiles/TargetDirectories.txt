@@ -1,0 +1,3 @@
+/home/neppo/main/build/CMakeFiles/your_executable.dir
+/home/neppo/main/build/CMakeFiles/edit_cache.dir
+/home/neppo/main/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/nix/store/591apldfgm1gr238rbfc8ib0y1z8ng2y-gcc-wrapper-14-20241116/bin/g++ -Wl,--dependency-file=CMakeFiles/your_executable.dir/link.d CMakeFiles/your_executable.dir/main.cpp.o -o your_executable  /nix/store/rvlpzcdms824wjg8q31bdfvx35z6zf27-libglvnd-1.7.0/lib/libGL.so -lGLEW -lGLU -lOpenGL -lglfw
