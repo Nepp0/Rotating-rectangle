@@ -1,7 +1,7 @@
 { pkgs ? import <nixpkgs> {} }:
 
 pkgs.mkShell {
-  # List of packages to include in the environment
+  # List of packages to include in environment
   buildInputs = [
     # Compiler and build tools
     pkgs.gcc      # C/C++ compiler
